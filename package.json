@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-katxupa",
+  "version": "1.0.0",
+  "description": "ESLint configs for Katxupa library",
+  "author": "Manuel Santos <ney.br.santos@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manusant/eslint-config-katxupa.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manusant/eslint-config-katxupa/issues"
+  },
+  "homepage": "https://github.com/manusant/eslint-config-katxupa",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "katxupa"
+  ],
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "files": [
+    "index.js"
+  ]
+}
