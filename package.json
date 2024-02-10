@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-katxupa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint configs for Katxupa library",
   "author": "Manuel Santos <ney.br.santos@gmail.com>",
   "license": "MIT",
