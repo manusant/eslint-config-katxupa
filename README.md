@@ -8,7 +8,7 @@ npm install katxupa
 pnpm add katxupa
 yarn add katxupa
 ```
-2. Add [eslint-config-katxupa](https://github.com/manusant/Katxupa) ESLint configs
+2. Add [eslint-config-katxupa](https://github.com/manusant/eslint-config-katxupa) ESLint configs
 ```shell
 npm install --save-dev eslint-config-katxupa
 pnpm add --save-dev eslint-config-katxupa
